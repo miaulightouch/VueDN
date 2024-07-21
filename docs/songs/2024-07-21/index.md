@@ -1,11 +1,10 @@
 ---
+title: Test Article
 lastUpdated: true
 contributors: true
 externalLinkIcon: true
 date: 2024-07-21
 ---
-# Test Article
-
 ![](/media/星街彗星.png)
 
 ## h2
