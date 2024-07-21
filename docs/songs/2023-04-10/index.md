@@ -1,5 +1,5 @@
 ---
-title: "# Tuko tayari (Mwanga Band)"
+title: Tuko tayari (Mwanga Band)
 contributors: false
 externalLinkIcon: true
 date: 2023-04-10
