@@ -1,4 +1,5 @@
 ---
+title: Baba Yetu (Christopher Tin)
 lastUpdated: true
 contributors: true
 externalLinkIcon: true
